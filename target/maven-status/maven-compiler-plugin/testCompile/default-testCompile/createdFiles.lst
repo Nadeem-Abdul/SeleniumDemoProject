@@ -1,0 +1,7 @@
+hdfcAutomation\AppTest.class
+hdfcAutomation\ValidateHDFCLoginNew.class
+hdfcAutomation\TC001_ValidateHDFCLoginFunctionality.class
+hdfcAutomation\DataDriven.class
+hdfcAutomation\Listeners.class
+hdfcAutomation\ValidateHDFCLoginFunctionality2.class
+Automation\AppTest.class

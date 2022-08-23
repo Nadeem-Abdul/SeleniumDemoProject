@@ -1,0 +1,10 @@
+Automation\App.class
+pageObjects\DashboardHDFC.class
+resources\ExtentReporterNGG.class
+pageObjects\DepositLPageHDFC.class
+resources\base.class
+pageObjects\LoginHDFC.class
+pageObjects\OpenFDConfirm.class
+resources\TestUtility.class
+resources\Xls_Reader.class
+pageObjects\OpenFDPage.class
